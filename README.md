@@ -1,1 +1,6 @@
-# Modelos_y_consultas-M6
+# Modelos y consultas (Modulo 6)
+## Práctica integradora / Digital House
+
+<a href="">Ver PDF del proyecto</a>
+<hr>
+<img src="">
